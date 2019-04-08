@@ -5,12 +5,3 @@ function theBeatlesPlay(musicians, instruments){
   }
   return allmusic;
 }
-
-
-
-
-
-
-
-
-
