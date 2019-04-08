@@ -5,7 +5,7 @@ function theBeatlesPlay(musicians, instruments){
   }
   return allmusic;
 }
-function johnLennonFacts(array){
+function johnLennonFacts(facts){
   var facts = [
   "He was the last Beatle to learn to drive",
   "He was never a vegetarian",
