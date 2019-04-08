@@ -16,6 +16,6 @@ var newfacts=[];
 vai i=0;
 while (i<facts.length){
   newfacts.push(facts+'!!!');
-}  
+}
 return newfatcs;
 }
