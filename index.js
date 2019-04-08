@@ -18,5 +18,5 @@ while (i<facts.length){
   newfacts.push(facts[i]+'!!!');
   i++
 }
-return newfatcs;
+return newfacts;
 }
